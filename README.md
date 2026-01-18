@@ -32,9 +32,10 @@ Screenshots of the app:
 <img src="\ScreenShots\Editpage_Bottom.png" alt="Edit Screen Bottom" width="150"/>
 
 Video walkthrough of the app:
-[Watch Video](Video_Recording.mp4)
+[Watch Video](https://myrp-my.sharepoint.com/:f:/g/personal/24021479_myrp_edu_sg/Ete5CMcXFIpNp5-XtwkX12UBz-2zjCvLBono368cTPvuVw?e=Je4wDM)
 
 ------------
+
 
 
 
